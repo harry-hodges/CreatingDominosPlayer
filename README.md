@@ -9,5 +9,5 @@ Includes both a simple baseline player and a strategic AI player that selects mo
 Haskell
 
 ## Run
-ghci Dominoes.hs
+ghci DomsMatch.hs
 
